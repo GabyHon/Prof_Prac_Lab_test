@@ -3,6 +3,7 @@
 import sys
 
 ''' Identify the columns that contain the marks and student numbers '''
+# Assuming the format of the data files are correct
 def getCols(f):
     headings = f.readline().strip().split(",")
     i = 1
