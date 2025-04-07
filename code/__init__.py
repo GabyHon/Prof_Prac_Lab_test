@@ -1,1 +1,1 @@
-from getbest.code import *
+from code.getbest import *
